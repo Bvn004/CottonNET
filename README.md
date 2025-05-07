@@ -13,7 +13,7 @@ The project includes image preprocessing, data augmentation, and both a custom C
 
 ## 🌐 Try It Online
 
-👉 [**CottonNET – Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/venkat004/CottonNET)
+👉 [**CottonNET – Live Demo on Hugging Face Spaces**](https://huggingface.co/spaces/venkat004/CottonDisease-space)
 
 Upload a photo of a cotton leaf or plant to instantly get its classification!
 
